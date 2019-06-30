@@ -1,3 +1,6 @@
+body{
+    font-family: 'Cinzel Decorative', cursive;
+}
 
 
 
@@ -8,7 +11,7 @@ footer {
     font-size: 12px;
     color: rgba(141, 141, 141, 0.829);
     text-align: center;
-    background: rgba(241, 189, 213, 0.274);
+    background: rgba(248, 215, 230, 0.274);
   }
  
  
