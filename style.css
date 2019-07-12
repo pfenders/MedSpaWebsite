@@ -4,7 +4,10 @@ body{
 
 
 
+#main-page-banner{
 
+    background-color: teal;
+}
 
 footer {
     padding: 30px 0;
