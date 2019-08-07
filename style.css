@@ -44,6 +44,11 @@ footer {
     margin-top: -240px;
     margin-left: 10px;
  }
+ #procedure_video{
+    width:120%;
+    height: 100%;
+    margin-top: -240px;
+ }
 } 
  
 
