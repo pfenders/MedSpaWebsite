@@ -39,6 +39,12 @@ footer {
         padding-bottom: 20px;
         margin-bottom: 100px;
  }
+ #brow-microbladding-services{
+    width:140%;
+    height: 100%;
+    padding-bottom: 20px;
+    margin-bottom: 100px;
+ }
 }
 
  @media (min-width: 576px) and (max-width: 767.98px) { 
@@ -53,9 +59,16 @@ footer {
     width:120%;
     height: 100%;
     padding-top: 550px;
-    margin-left: -200px;
+    margin-left: -250px;
 
 }
+#brow-microbladding-services{
+    width:140%;
+    height: 100%;
+    padding-top: 480px;
+    margin-left: -250px;
+
+ }
 #port-eyebrow-microblading{
     
     padding-top: 650px;
@@ -79,12 +92,25 @@ footer {
         margin-left: -350px;
     
     }
+    #brow-microbladding-services{
+        width:140%;
+        height: 100%;
+        padding-top: 480px;
+        margin-left: -350px;
+    
+     }
  }
  @media (min-width: 992px) and (max-width: 1199.98px) { 
     #services{
-        width:120%;
+        width:80%;
         height: 100%;
-        padding-top: 550px;
-        margin-left: -450px;
+        padding-top: 30px;
+        float:right;
     }
+    #brow-microbladding-services{
+        width:100%;
+        height: 100%;
+        padding-top: 30px;
+        float:right;
+     }
  }
