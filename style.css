@@ -29,23 +29,23 @@ footer {
     text-align: center;
     background: rgba(248, 215, 230, 0.274);
   }
- 
- 
+
+
 /* For Max and Minimum Width */
-@media (max-width: 575.98px) { 
+ @media (max-width: 575.98px) { 
     #services{
         width:120%;
         height: 100%;
-        padding-bottom: 20px;
-        margin-bottom: 100px;
+        margin-top: -240px;
  }
  #brow-microbladding-services{
-    width:140%;
+    width:120%;
     height: 100%;
-    padding-bottom: 20px;
-    margin-bottom: 100px;
+    margin-top: -240px;
  }
-}
+} 
+ 
+
 
  @media (min-width: 576px) and (max-width: 767.98px) { 
     #paragraph_about{
