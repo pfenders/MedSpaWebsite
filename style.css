@@ -16,6 +16,13 @@
         font-size: 1.3rem;
         }
 
+
+        #paragraph_about{
+            float: left;
+            margin-left: 30px;
+    }
+
+
 #container {
     position: relative;
     text-align: center;
