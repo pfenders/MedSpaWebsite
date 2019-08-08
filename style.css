@@ -33,6 +33,12 @@ footer {
 
 /* For Max and Minimum Width */
  @media (max-width: 575.98px) { 
+    #paragraph_about{
+        width:150%;
+        height: 50%;
+        padding-top: 60px;
+        margin-left: 20px;
+}
     #services{
         width:120%;
         height: 100%;
@@ -58,7 +64,7 @@ footer {
         width:120%;
         height: 50%;
         padding-top: 700px;
-        margin-left: 150px;
+        margin-left: -240px;
 }
 
 #services{
@@ -103,6 +109,13 @@ footer {
 
 
 @media (min-width: 768px) and (max-width: 991.98px) { 
+    #paragraph_about{
+        width:120%;
+        height: 100%;
+        padding-top: 700px;
+        margin-left: -350px;
+}
+   
     #services{
         width:120%;
         height: 100%;
