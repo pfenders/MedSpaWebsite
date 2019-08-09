@@ -19,7 +19,7 @@
 
         #paragraph_about{
             float: left;
-            margin-left: 30px;
+            margin-left: 50px;
     }
 
     #services{
@@ -27,7 +27,7 @@
       margin-left: -50px;
    
    }
-   
+
 #container {
     position: relative;
     text-align: center;
