@@ -22,17 +22,18 @@
             margin-left: 30px;
     }
 
-
+    #services{
+  
+      margin-left: -50px;
+   
+   }
+   
 #container {
     position: relative;
     text-align: center;
 }
 
-#services{
-  
-   margin-left: -50px;
 
-}
 
 video{
     max-width: 100%;
