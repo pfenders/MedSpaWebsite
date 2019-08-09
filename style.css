@@ -62,6 +62,7 @@ footer {
         width:120%;
         height: 100%;
         margin-top: -240px;
+        margin-left: 10px;
  }
  #brow-microbladding-services{
     width:100%;
@@ -86,7 +87,7 @@ footer {
 #services{
     width:120%;
     height: 100%;
-    padding-top: 550px;
+    padding-top: 440px;
     margin-left: -250px;
 
 }
@@ -135,7 +136,7 @@ footer {
     #services{
         width:120%;
         height: 100%;
-        padding-top: 550px;
+        padding-top: 440px;
         margin-left: -350px;
     
     }
@@ -174,7 +175,7 @@ footer {
  }
  @media (min-width: 992px) and (max-width: 1199.98px) { 
     #services{
-        width:80%;
+        width:90%;
         height: 100%;
         padding-top: 30px;
         float:right;
