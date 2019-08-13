@@ -1,2 +1,2 @@
-# Website for medspa - Used HTML5, CSS3, and Bootstrap. 
+# Website for medspa - Used HTML5, CSS3, and Bootstrap. Used media queries to size for different screens.
 Images were taken out of the image folder to allow to the website to load faster on godaddy.com.
